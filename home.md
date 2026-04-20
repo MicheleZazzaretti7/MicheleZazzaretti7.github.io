@@ -1,3 +1,33 @@
 layout: page
 title: "Michele Zazzaretti Portfolio"
 permalink: /home
+
+
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width" inital-scale="1"/>
+    <title>Michele Zazzaretti</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+<div id="header">
+    <h1>Michele Zazzaretti</h1>
+</div>
+<div id="container">
+
+</div>
+<div id="footer">
+<p>For anythig contact me with the below informations</p>
+<ul>
+    <li><a>Telephone: 074399035</a></li>
+    <li><a>Mobile phone: 3319106311</a></li>
+    <li><a>Email: michele.zazzaretti.03@gmail.com</a></li>
+</ul>
+<div id="live-clock">
+
+</div>
+&copy;
+
+</div>
+</body>
